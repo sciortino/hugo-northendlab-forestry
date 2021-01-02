@@ -36,15 +36,6 @@ logo = "images/logo.svg"
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Hi, I'm Stephen Sciortino!"
-[params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-[params.cta.button]
-enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
